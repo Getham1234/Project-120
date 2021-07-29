@@ -1,0 +1,7 @@
+<div id="final_statment">
+        <label>I have tested 5 images.</label>
+        <br>
+        <label><b>Mobilenet</b> has predicted 4 of them correctly and <b>Google Lens</b> has predicted 2 of them correctly.</label>
+        <br>
+        <label>So according to my case study, <b></b> is more Accurate.</label>
+    </div>

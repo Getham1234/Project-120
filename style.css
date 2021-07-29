@@ -1,0 +1,32 @@
+b{
+    color: purple;
+}
+
+.bob{
+    background-color: rgb(165, 165, 165);
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+}
+
+.text_images_and_result img{
+    border-radius: 20px;
+}
+
+.text_images_and_result{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding: 15px;
+}
+
+#final_statment{
+    background-color: skyblue;
+    box-shadow: grey;
+    border-radius: 10px;
+    border-color: gainsboro;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
